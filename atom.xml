@@ -4,12 +4,21 @@
   <title>github:aratak</title>
   <link href="http://aratak.github.com/atom.xml" rel="self"/>
   <link href="http://aratak.github.com/"/>
-  <updated>2011-06-18T01:22:02+03:00</updated>
+  <updated>2011-06-18T02:02:14+03:00</updated>
   <id>http://aratak.github.com/</id>
   <author>
     <name>Alexey Osipenko</name>
     
   </author>
 
+  
+  <entry>
+    <title>First Post:typical first post for any blog :)</title>
+    <link href="http://aratak.github.com/blog/2011/06/18/first-postdescription/"/>
+    <updated>2011-06-18T02:00:00+03:00</updated>
+    <id>http://aratak.github.com/blog/2011/06/18/first-postdescription</id>
+    <content type="html">
+</content>
+  </entry>
   
 </feed>
