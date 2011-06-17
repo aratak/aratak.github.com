@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>github:aratak</title>
+  <link href="http://aratak.github.com/atom.xml" rel="self"/>
+  <link href="http://aratak.github.com/"/>
+  <updated>2011-06-18T01:22:02+03:00</updated>
+  <id>http://aratak.github.com/</id>
+  <author>
+    <name>Alexey Osipenko</name>
+    
+  </author>
+
+  
+</feed>
