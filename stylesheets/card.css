@@ -1,0 +1,90 @@
+div#cardwrapper {
+  position: absolute;
+  right: 5%;
+  top: 60px;
+
+  background: url(../images/card-shadow.png) left top no-repeat;
+  width: 448px;
+  height: 257px;
+}
+
+section#businesscard {
+  position: relative;
+  background: #e8e8e8;
+  border: 1px solid #cbcbcb;
+  width: 445px;
+  height: 235px;
+  padding: 1.8em;
+
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+section#businesscard {
+  text-align: right;
+}
+
+section#businesscard h1 {
+  color: #111111;
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+}
+
+section#businesscard h1:hover {
+  text-shadow: 0 0 1px #888888;
+}
+
+section#businesscard a#email {
+  padding-left: 20px;
+  color: #564dd5;
+}
+
+section#businesscard a#email:hover {
+  color: #392dd5;
+  background: url(../images/email.png) left c enter no-repeat;
+}
+
+section#businesscard img#logo {
+  float: left;
+  border: 1px solid #000000;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -khtml-border-radius: 2px;
+  -moz-border-radius: 2px;
+}
+
+.works {
+  margin: 1ex 0 0 0;
+  width: 70%;
+  float: right;
+}
+
+strike {
+  color: #999999;
+  opacity: 0.5;
+}
+
+strike a {
+  color: #999999;
+}
+
+.company {
+  padding: 5px 5px 5px 25px;
+  background-position: 3px center;
+  background-repeat: no-repeat;
+}
+
+.company.logicast {
+  background-image: url(/images/companies/logicast.png);
+}
+
+.company.base3 {
+  background-image: url(/images/companies/base3.png);
+}
+
+.company.anahoret {
+  background-image: url(/images/companies/anahoret.png  );
+}

@@ -1,0 +1,58 @@
+#info {
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+
+  white-space: nowrap;
+  position: absolute;
+  right: 1.8em;
+  bottom: 1em;
+}
+
+#info small {
+  color: #999999;
+}
+
+#info a, #info a {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  margin: 0 0 0 0.5em;
+
+  display: -moz-inline-stack;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+
+#info a:hover, #info a:hover {
+  
+}
+
+#info a.twitter {
+  background-image: url(../images/icons/twitter.png);
+}
+
+#info a.facebook {
+  background-image: url(../images/icons/facebook.png);
+}
+
+#info a.google {
+  background-image: url(../images/icons/google.png);
+}
+
+#info a.picasa {
+  background-image: url(../images/icons/picasa.png);
+}
+
+#info a.livejournal {
+  background-image: url(../images/icons/livejournal.png);
+}
+
+#info a.github {
+  background-image: url(../images/icons/github.png);
+}

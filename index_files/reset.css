@@ -1,0 +1,12 @@
+dl {}
+
+dl dt {}
+
+dl dd {
+  color: #888888;
+}
+
+dl dt small {
+  float: right;
+  color: #cccccc;
+}
